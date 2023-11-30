@@ -99,3 +99,7 @@ Residente de obra en la primera fase de estructuras de Hormigón para ampliació
     <img src="assets/img/42.jpg" alt="Imagen1" style="float: left;">
     <img src="assets/img/44.jpg" alt="Imagen2" style="float: right;">
 </div>
+
+# Parametric Structures en Grasshopper
+![gif1](assets\img\1.gif) 
+![gif2](assets\img\2.gif)

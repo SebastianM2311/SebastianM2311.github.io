@@ -1,14 +1,16 @@
 title: Sebastián Meneses Flores
 logo: /assets/img/logo.png
-description: "INTERESES: Investigación, optimización, análisis y diseño estructural, programación, sismorresistencia, IA, openseespy, parametric structures."
-description: SOFTWARES
-  - Ram Elements
-  - Idea Statica
-  - Ram Elements
-  - Tekla Structures
-  - Mathcad
-  - Autocad, Naviswork
-  - Rhino, Grasshopper
+description: |
+  INTERESES: Investigación, optimización, análisis y diseño estructural, programación, sismorresistencia, IA, openseespy, parametric structures.
+  SOFTWARES:
+    - Ram Elements
+    - Idea Statica
+    - Ram Elements
+    - Tekla Structures
+    - Mathcad
+    - Autocad, Naviswork
+    - Rhino, Grasshopper
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal

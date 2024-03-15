@@ -101,11 +101,11 @@ Residente de obra en la primera fase de estructuras de Hormigón para ampliació
 </div>
 
 # Parametric Structures en Grasshopper
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
+<div style="display: flex; justify-content: center; width: 100%;">
+    <div style="flex: 1; margin-right: 10px;">
         <img src="assets\img\1.gif" alt="gif1" style="width: 100%;">
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 1; margin-left: 10px;">
         <img src="assets\img\2.gif" alt="gif2" style="width: 100%;">
     </div>
 </div>

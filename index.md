@@ -6,7 +6,7 @@ Este es un resumen de los proyectos académicos y de Ingeniería que he realizad
 
 [Link to LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-meneses-flores-2694211ab).
 
-Participé en diversos proyectos de **Ingeniería Estructural**.
+Trabajé en diversos proyectos de **Ingeniería Estructural**.
 Mi experiencia se extiende desde la etapa de Ingeniería básica hasta la ingeniería de detalle y fabricación en estructuras de acero, madera y hormigón.
 
 # Proyecto Torre de Acopio de Granos

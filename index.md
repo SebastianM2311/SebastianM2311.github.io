@@ -108,4 +108,13 @@ Residente de obra en la primera fase de estructuras de Hormigón para ampliació
     <div style="max-width: 150%;">
         <img src="assets\img\2.gif" alt="gif2" style="width: 100%; display: block; margin: 0 auto;">
     </div>
+    <div style="max-width: 150%;">
+        <img src="assets\img\3.gif" alt="gif2" style="width: 100%; display: block; margin: 0 auto;">
+    </div>
+    <div style="max-width: 150%;">
+        <img src="assets\img\4.gif" alt="gif2" style="width: 100%; display: block; margin: 0 auto;">
+    </div>
+    <div style="max-width: 150%;">
+        <img src="assets\img\5.gif" alt="gif2" style="width: 100%; display: block; margin: 0 auto;">
+    </div>
 </div>

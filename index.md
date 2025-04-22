@@ -120,7 +120,9 @@ Residente de obra en la primera fase de estructuras de Hormigón para ampliació
 </div>
 
 # Proyecto Nueva Estructura Estadio Ramón Tahuichi Aguilera Costas
-Modelado Paramétrico de la estructura de acero y fundaciones.
+Renders finales de la estructura de acero y fundaciones, realizadas en Unreal Engine.
+Esta estructura se construyo parametricamente con Grasshopper y Tekla Live link.
+Se contó con el soporte del escaneo lidar de la estructura existente para coordinar interferencias.
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/46.jpg" alt="Imagen1" style="float: left;">
     <img src="assets/img/47.jpg" alt="Imagen2" style="float: right;">

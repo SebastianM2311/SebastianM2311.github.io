@@ -4,7 +4,7 @@ layout: default
 # PORTAFOLIO DE PROYECTOS
 Este es un resumen de los proyectos académicos y de Ingeniería que he realizado.
 
-[Link to LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-meneses-flores-2694211ab).
+[Link to LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-meneses-2694211ab/).
 
 Trabajé en diversos proyectos de **Ingeniería Estructural**.
 Mi experiencia se extiende desde la etapa de Ingeniería básica hasta la ingeniería de detalle y fabricación en estructuras de acero, madera y hormigón.

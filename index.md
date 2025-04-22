@@ -119,4 +119,13 @@ Residente de obra en la primera fase de estructuras de Hormigón para ampliació
     </div>
 </div>
 
-
+# Proyecto Nueva Estructura Estadio Ramón Tahuichi Aguilera Costas
+Modelado Paramétrico de la estructura de acero y fundaciones.
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/46.jpg" alt="Imagen1" style="float: left;">
+    <img src="assets/img/47.jpg" alt="Imagen2" style="float: right;">
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/48.jpg" alt="Imagen1" style="float: left;">
+    <img src="assets/img/49.jpg" alt="Imagen2" style="float: right;">
+</div>
